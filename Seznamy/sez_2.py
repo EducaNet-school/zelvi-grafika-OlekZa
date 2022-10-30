@@ -12,3 +12,5 @@ for i in range(rng):
     sez.append(b)
 
 print(sez)
+
+#Rada zacina 1 1 2 ...

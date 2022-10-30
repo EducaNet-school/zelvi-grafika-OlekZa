@@ -16,3 +16,6 @@ def greater_than_all(seznam, n):
 
 greater_than_all(sez, 600)
 
+#snaz se psat funkce, ktere nemaji uzivatelsky vstup
+#nebo vystup. Funkce Greater by mela vrazet true, false,
+# ty printy by mely byt mimo ni
